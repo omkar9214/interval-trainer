@@ -1,0 +1,437 @@
+{
+ "$generatedBy": "scripts/build-note-samples.mjs",
+ "category": "spn",
+ "categoryMeaning": "steel string, plucked with a pick, allowed to ring normally",
+ "source": "Acoustic Guitar Notes Dataset (Walden G551E steel / Yamaha CM-40 nylon)",
+ "range": {
+  "lowestMidi": 40,
+  "highestMidi": 88,
+  "notes": "E2 to E6"
+ },
+ "pitchVerification": {
+  "method": "dominant partial must be the 1st, 2nd or 3rd harmonic of the claimed pitch, and the claimed pitch must itself carry >=5% of peak energy",
+  "toleranceCents": 60,
+  "note": "the dataset mislabels some takes; A4-1-spn is F#4 and Asharp4-1-spn is G4"
+ },
+ "attackAlignmentMs": {
+  "lowest": 1.5,
+  "highest": 9.4,
+  "spread": 7.9
+ },
+ "samples": {
+  "40": {
+   "note": "E2",
+   "source": "E2-1-spn.wav",
+   "category": "spn",
+   "trimmedMs": 78.3,
+   "pitchVerified": true,
+   "dominantPartialHz": 163.5
+  },
+  "41": {
+   "note": "F2",
+   "source": "F2-1-spn.wav",
+   "category": "spn",
+   "trimmedMs": 104.3,
+   "pitchVerified": true,
+   "dominantPartialHz": 261.8
+  },
+  "42": {
+   "note": "Fsharp2",
+   "source": "Fsharp2-1-spn.wav",
+   "category": "spn",
+   "trimmedMs": 114.8,
+   "pitchVerified": true,
+   "dominantPartialHz": 92.2
+  },
+  "43": {
+   "note": "G2",
+   "source": "G2-1-spn.wav",
+   "category": "spn",
+   "trimmedMs": 101.6,
+   "pitchVerified": true,
+   "dominantPartialHz": 97.6
+  },
+  "44": {
+   "note": "Gsharp2",
+   "source": "Gsharp2-1-spn.wav",
+   "category": "spn",
+   "trimmedMs": 117.4,
+   "pitchVerified": true,
+   "dominantPartialHz": 207.9
+  },
+  "45": {
+   "note": "A2",
+   "source": "A2-1-spn.wav",
+   "category": "spn",
+   "trimmedMs": 94.3,
+   "pitchVerified": true,
+   "dominantPartialHz": 220.7
+  },
+  "46": {
+   "note": "Asharp2",
+   "source": "Asharp2-1-spn.wav",
+   "category": "spn",
+   "trimmedMs": 103.6,
+   "pitchVerified": true,
+   "dominantPartialHz": 116.4
+  },
+  "47": {
+   "note": "B2",
+   "source": "B2-1-spn.wav",
+   "category": "spn",
+   "trimmedMs": 82.5,
+   "pitchVerified": true,
+   "dominantPartialHz": 123.1
+  },
+  "48": {
+   "note": "C3",
+   "source": "C3-1-spn.wav",
+   "category": "spn",
+   "trimmedMs": 110.6,
+   "pitchVerified": true,
+   "dominantPartialHz": 130.5
+  },
+  "49": {
+   "note": "Csharp3",
+   "source": "Csharp3-1-spn.wav",
+   "category": "spn",
+   "trimmedMs": 69.2,
+   "pitchVerified": true,
+   "dominantPartialHz": 137.9
+  },
+  "50": {
+   "note": "D3",
+   "source": "D3-1-spn.wav",
+   "category": "spn",
+   "trimmedMs": 137,
+   "pitchVerified": true,
+   "dominantPartialHz": 146
+  },
+  "51": {
+   "note": "Dsharp3",
+   "source": "Dsharp3-1-spn.wav",
+   "category": "spn",
+   "trimmedMs": 75.3,
+   "pitchVerified": true,
+   "dominantPartialHz": 156.1
+  },
+  "52": {
+   "note": "E3",
+   "source": "E3-1-spn.wav",
+   "category": "spn",
+   "trimmedMs": 108.9,
+   "pitchVerified": true,
+   "dominantPartialHz": 164.9
+  },
+  "53": {
+   "note": "F3",
+   "source": "F3-1-spn.wav",
+   "category": "spn",
+   "trimmedMs": 92,
+   "pitchVerified": true,
+   "dominantPartialHz": 174.3
+  },
+  "54": {
+   "note": "Fsharp3",
+   "source": "Fsharp3-1-spn.wav",
+   "category": "spn",
+   "trimmedMs": 108.5,
+   "pitchVerified": true,
+   "dominantPartialHz": 185.1
+  },
+  "55": {
+   "note": "G3",
+   "source": "G3-1-spn.wav",
+   "category": "spn",
+   "trimmedMs": 78.2,
+   "pitchVerified": true,
+   "dominantPartialHz": 199.2
+  },
+  "56": {
+   "note": "Gsharp3",
+   "source": "Gsharp3-1-spn.wav",
+   "category": "spn",
+   "trimmedMs": 96.9,
+   "pitchVerified": true,
+   "dominantPartialHz": 209.3
+  },
+  "57": {
+   "note": "A3",
+   "source": "A3-1-spn.wav",
+   "category": "spn",
+   "trimmedMs": 64.6,
+   "pitchVerified": true,
+   "dominantPartialHz": 220
+  },
+  "58": {
+   "note": "Asharp3",
+   "source": "Asharp3-1-spn.wav",
+   "category": "spn",
+   "trimmedMs": 96.8,
+   "pitchVerified": true,
+   "dominantPartialHz": 232.8
+  },
+  "59": {
+   "note": "B3",
+   "source": "B3-1-spn.wav",
+   "category": "spn",
+   "trimmedMs": 101,
+   "pitchVerified": true,
+   "dominantPartialHz": 246.3
+  },
+  "60": {
+   "note": "C4",
+   "source": "C4-1-spn.wav",
+   "category": "spn",
+   "trimmedMs": 98.6,
+   "pitchVerified": true,
+   "dominantPartialHz": 261.8
+  },
+  "61": {
+   "note": "Csharp4",
+   "source": "Csharp4-1-spn.wav",
+   "category": "spn",
+   "trimmedMs": 92.9,
+   "pitchVerified": true,
+   "dominantPartialHz": 277.2
+  },
+  "62": {
+   "note": "D4",
+   "source": "D4-1-spn.wav",
+   "category": "spn",
+   "trimmedMs": 77.6,
+   "pitchVerified": true,
+   "dominantPartialHz": 292.7
+  },
+  "63": {
+   "note": "Dsharp4",
+   "source": "Dsharp4-1-spn.wav",
+   "category": "spn",
+   "trimmedMs": 73.9,
+   "pitchVerified": true,
+   "dominantPartialHz": 310.2
+  },
+  "64": {
+   "note": "E4",
+   "source": "E4-1-spn.wav",
+   "category": "spn",
+   "trimmedMs": 107.7,
+   "pitchVerified": true,
+   "dominantPartialHz": 328.4
+  },
+  "65": {
+   "note": "F4",
+   "source": "F4-1-spn.wav",
+   "category": "spn",
+   "trimmedMs": 97.8,
+   "pitchVerified": true,
+   "dominantPartialHz": 347.9
+  },
+  "66": {
+   "note": "Fsharp4",
+   "source": "Fsharp4-1-spn.wav",
+   "category": "spn",
+   "trimmedMs": 78.5,
+   "pitchVerified": true,
+   "dominantPartialHz": 368.8
+  },
+  "67": {
+   "note": "G4",
+   "source": "G4-1-spn.wav",
+   "category": "spn",
+   "trimmedMs": 99.6,
+   "pitchVerified": true,
+   "dominantPartialHz": 391
+  },
+  "68": {
+   "note": "Gsharp4",
+   "source": "Gsharp4-1-spn.wav",
+   "category": "spn",
+   "trimmedMs": 77.3,
+   "pitchVerified": true,
+   "dominantPartialHz": 413.8
+  },
+  "69": {
+   "note": "A4",
+   "source": "A4-7-spn.wav",
+   "category": "spn",
+   "trimmedMs": 74.4,
+   "pitchVerified": true,
+   "dominantPartialHz": 871.4,
+   "rejectedTakes": [
+    "A4-1-spn.wav (dominant 369.4Hz, energy at A4 0.2%)"
+   ]
+  },
+  "70": {
+   "note": "Asharp4",
+   "source": "Asharp4-7-spn.wav",
+   "category": "spn",
+   "trimmedMs": 104.2,
+   "pitchVerified": true,
+   "dominantPartialHz": 460.9,
+   "rejectedTakes": [
+    "Asharp4-1-spn.wav (dominant 391.0Hz, energy at Asharp4 0.0%)"
+   ]
+  },
+  "71": {
+   "note": "B4",
+   "source": "B4-1-spn.wav",
+   "category": "spn",
+   "trimmedMs": 101.2,
+   "pitchVerified": true,
+   "dominantPartialHz": 494.6
+  },
+  "72": {
+   "note": "C5",
+   "source": "C5-1-spn.wav",
+   "category": "spn",
+   "trimmedMs": 84.1,
+   "pitchVerified": true,
+   "dominantPartialHz": 520.2
+  },
+  "73": {
+   "note": "Csharp5",
+   "source": "Csharp5-1-spn.wav",
+   "category": "spn",
+   "trimmedMs": 73.7,
+   "pitchVerified": true,
+   "dominantPartialHz": 550.4
+  },
+  "74": {
+   "note": "D5",
+   "source": "D5-1-spn.wav",
+   "category": "spn",
+   "trimmedMs": 68.9,
+   "pitchVerified": true,
+   "dominantPartialHz": 1168.2
+  },
+  "75": {
+   "note": "Dsharp5",
+   "source": "Dsharp5-1-spn.wav",
+   "category": "spn",
+   "trimmedMs": 67.9,
+   "pitchVerified": true,
+   "dominantPartialHz": 616.4
+  },
+  "76": {
+   "note": "E5",
+   "source": "E5-1-spn.wav",
+   "category": "spn",
+   "trimmedMs": 95.8,
+   "pitchVerified": true,
+   "dominantPartialHz": 1320.3
+  },
+  "77": {
+   "note": "F5",
+   "source": "F5-1-spn.wav",
+   "category": "spn",
+   "trimmedMs": 74.9,
+   "pitchVerified": true,
+   "dominantPartialHz": 1401
+  },
+  "78": {
+   "note": "Fsharp5",
+   "source": "Fsharp5-1-spn.wav",
+   "category": "spn",
+   "trimmedMs": 75.2,
+   "pitchVerified": true,
+   "dominantPartialHz": 740.2
+  },
+  "79": {
+   "note": "G5",
+   "source": "G5-1-spn.wav",
+   "category": "spn",
+   "trimmedMs": 71.2,
+   "pitchVerified": true,
+   "dominantPartialHz": 785.3
+  },
+  "80": {
+   "note": "Gsharp5",
+   "source": "Gsharp5-1-spn.wav",
+   "category": "spn",
+   "trimmedMs": 93.6,
+   "pitchVerified": true,
+   "dominantPartialHz": 831.7
+  },
+  "81": {
+   "note": "A5",
+   "source": "69.mp3",
+   "category": "spn",
+   "trimmedMs": 0,
+   "pitchVerified": true,
+   "dominantPartialHz": 1742.2,
+   "derivedFromMidi": 69,
+   "derivation": "resampled up one octave (2x, no interpolation)"
+  },
+  "82": {
+   "note": "Asharp5",
+   "source": "70.mp3",
+   "category": "spn",
+   "trimmedMs": 0,
+   "pitchVerified": true,
+   "dominantPartialHz": 921.9,
+   "derivedFromMidi": 70,
+   "derivation": "resampled up one octave (2x, no interpolation)"
+  },
+  "83": {
+   "note": "B5",
+   "source": "71.mp3",
+   "category": "spn",
+   "trimmedMs": 0,
+   "pitchVerified": true,
+   "dominantPartialHz": 988.5,
+   "derivedFromMidi": 71,
+   "derivation": "resampled up one octave (2x, no interpolation)"
+  },
+  "84": {
+   "note": "C6",
+   "source": "72.mp3",
+   "category": "spn",
+   "trimmedMs": 0,
+   "pitchVerified": true,
+   "dominantPartialHz": 1039.6,
+   "derivedFromMidi": 72,
+   "derivation": "resampled up one octave (2x, no interpolation)"
+  },
+  "85": {
+   "note": "Csharp6",
+   "source": "73.mp3",
+   "category": "spn",
+   "trimmedMs": 0,
+   "pitchVerified": true,
+   "dominantPartialHz": 1100.9,
+   "derivedFromMidi": 73,
+   "derivation": "resampled up one octave (2x, no interpolation)"
+  },
+  "86": {
+   "note": "D6",
+   "source": "74.mp3",
+   "category": "spn",
+   "trimmedMs": 0,
+   "pitchVerified": true,
+   "dominantPartialHz": 2336.4,
+   "derivedFromMidi": 74,
+   "derivation": "resampled up one octave (2x, no interpolation)"
+  },
+  "87": {
+   "note": "Dsharp6",
+   "source": "75.mp3",
+   "category": "spn",
+   "trimmedMs": 0,
+   "pitchVerified": true,
+   "dominantPartialHz": 1232.8,
+   "derivedFromMidi": 75,
+   "derivation": "resampled up one octave (2x, no interpolation)"
+  },
+  "88": {
+   "note": "E6",
+   "source": "76.mp3",
+   "category": "spn",
+   "trimmedMs": 0,
+   "pitchVerified": true,
+   "dominantPartialHz": 2641.2,
+   "derivedFromMidi": 76,
+   "derivation": "resampled up one octave (2x, no interpolation)"
+  }
+ }
+}
